@@ -5,9 +5,11 @@ one:
   price: 1
   publish: MyString
   publish_date: MyString
+  image_url: MyText
 
 two:
   name: MyString
   price: 1
   publish: MyString
   publish_date: MyString
+  image_url: MyText
