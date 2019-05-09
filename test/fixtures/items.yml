@@ -4,12 +4,12 @@ one:
   name: MyString
   price: 1
   publish: MyString
-  publish_date: MyString
+  publish_date: 2019-05-09 19:30:46
   image_url: MyText
 
 two:
   name: MyString
   price: 1
   publish: MyString
-  publish_date: MyString
+  publish_date: 2019-05-09 19:30:46
   image_url: MyText
